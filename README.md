@@ -19,5 +19,8 @@
 ### 2023.12
 
 - [ ] 论文阅读
+  - 深度估计：VFDepth、Diffsion基础 + 深度估计
+  - Occ：OpenOcc、COTR
 - [x] mindspore 项目结束
 - [x] 华为深度估计项目开启
+- [ ] Diffision + 深度估计 论文分享
