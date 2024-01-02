@@ -20,7 +20,14 @@
 
 - [ ] 论文阅读
   - 深度估计：VFDepth、Diffsion基础 + 深度估计
-  - Occ：OpenOcc、COTR
+  - Occ：OpenOcc
 - [x] mindspore 项目结束
 - [x] 华为深度估计项目开启
+- [ ] Diffision + 深度估计 论文分享
+- [x] 生病咕了一周半
+
+---
+
+### 2024.1
+
 - [ ] Diffision + 深度估计 论文分享
