@@ -31,4 +31,7 @@
 ### 2024.1
 
 - [x] Diffision + 深度估计 论文分享（1.09）
-- [ ] 根据VPD搭建baseline
+- [x] 根据VPD搭建baseline
+- [x] BLIP-2模块复现
+- [ ] DDP模块迁移
+- [ ] Depth Anything 研读、迁移效果
